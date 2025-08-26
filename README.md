@@ -6,7 +6,7 @@ git commit -am ""
 git push
 
 git fetch
-git pull
+git pullifit 
 
 git branch nombre
 git checkout nombre
