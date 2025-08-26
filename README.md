@@ -16,3 +16,7 @@ git push origin HEAD:main
 dotnet new console -n nombre 
 cd Carpeta
 dotnet run
+
+# nuevoos cambios
+guardar,
+archivar
