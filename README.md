@@ -20,3 +20,10 @@ dotnet run
 # nuevoos cambios
 guardar,
 archivar
+
+# cambio rama nombrre1
+...
+git add *
+
+
+-------------------------
